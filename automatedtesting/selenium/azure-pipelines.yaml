@@ -192,12 +192,12 @@ stages:
               ls -la
               sudo mkdir -p /var/log/selenium
               sudo chmod 664 /var/log/selenium
-              sudo python3 -u test.py 2>&1 | sudo tee -a /var/log/selenium/test.log
+              sudo python3 -u test.py 2>&1 | sudo tee -a /var/log/selenium/devopPro3.log
               # copy selenium log file to $(System.DefaultWorkingDirectory)/log/selenium/
               cd $(System.DefaultWorkingDirectory)
               mkdir -p log/selenium
               pwd
-              sudo cp /var/log/selenium/test.log log/selenium/test.log
+              sudo cp /var/log/selenium/test.log log/selenium/devopPro3.log
               ls -la
             displayName: Run selenium tests
           - task: PublishPipelineArtifact@1
