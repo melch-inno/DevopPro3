@@ -39,8 +39,7 @@
    ![4-functional-test](screenshots/4-functional-test.png)
 
 - API-integration tests
-  - screenshot of the Run Summary page (which contains 4 graphs)
-    ![5-summary-page-part1](screenshots/5-summary-page-part1.png)
+ 
   - screenshot of the Test Results page (which contains the test case titles from each test) 
     ![5-test-result-page-part2](screenshots/5-test-result-page-part2.png)
   - screenshot of the output of the Publish Test Results step
