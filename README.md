@@ -28,10 +28,6 @@
    ![1-terraform-output](screenshots/terraform-output.png)
    ![1-terraform-state](screenshots/terraform-state.png)
 
-- screenshot of the successful execution of the pipeline build results :
-
-    ![2-pipeline](screenshots/2-pipeline.png)
-
 ## Automated Testing
 
 - screenshot of the log output of JMeter Command Line Options reference with results executed by the CI/CD pipeline
