@@ -50,8 +50,7 @@
 - Configure Azure Monitor
   - screenshots of the email received when the alert is triggered
     ![6-emails-part1](screenshots/6-emails-part1.png)
-  - screenshots of the graphs of the resource that the alert was triggered
-    ![6-webapp-part2](screenshots/6-webapp-part2.png)
+  
   - screenshots of the alert rule
     ![6-alerts-part3c](screenshots/6-alerts-part3c.png)
 
