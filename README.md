@@ -54,8 +54,6 @@
   - screenshots of the graphs of the resource that the alert was triggered
     ![6-webapp-part2](screenshots/6-webapp-part2.png)
   - screenshots of the alert rule
-    ![6-alerts-part3a](screenshots/6-alerts-part3c.png)
-    ![6-alerts-part3b](screenshots/6-alerts-part3c.png)
     ![6-alerts-part3c](screenshots/6-alerts-part3c.png)
 
 - Azure Log Analytics
